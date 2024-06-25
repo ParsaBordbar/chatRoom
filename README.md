@@ -1,6 +1,7 @@
 # Chat Room with JS
 [see a demo video here](https://github.com/ParsaBordbar/chatRoom/assets/124056966/b6f0c8ce-fc9e-4631-8ab2-4738d574bc30)
 
+<img href="https://github.com/ParsaBordbar/chatRoom/assets/124056966/a6afd6e0-cdf9-47a0-9447-ee9173565f49" />
 
 
 A real-time chat application built with Daysi UI, Tailwind CSS, Node.js, and WebSocket for seamless communication.
