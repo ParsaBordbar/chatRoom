@@ -1,2 +1,23 @@
-# chatRoom
-A chatRoom app made with JS and Sockets. Uses Daysi Ui for the front-end and node js for the back-end.
+# Chat Room with JS
+
+A real-time chat application built with Daysi UI, Tailwind CSS, Node.js, and WebSocket for seamless communication.
+
+## Features
+- **Real-time Messaging**: Instant messaging with WebSocket for real-time updates.
+- **Daysi UI**: Beautiful user interface components for a modern look.
+- **Fully Responsive**: UI/UX fully done for all small and large sizes. The design is Moblie first.
+- **Node.js Backend**: Server-side logic built on Node.js for handling WebSocket connections.
+- **Writer Intro welcome header:** To introduce the features.
+- **Suppots UTF-8 and Emojis:** You can Enjoy using it with youre mother tonge and express yourself with emojies! 
+
+## Technologies Used
+- **Daysi UI**
+- **Tailwind CSS**
+- **Node.js**
+- **WebSocket**
+
+
+## How to use
+- Enter your name to join the chat room.
+- Type your message in the input box at the bottom and press Enter to send.
+- Messages are displayed in real-time for all connected users.
