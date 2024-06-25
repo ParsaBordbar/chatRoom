@@ -9,6 +9,8 @@ A real-time chat application built with Daysi UI, Tailwind CSS, Node.js, and Web
 - **Real-time Messaging**: Instant messaging with WebSocket for real-time updates.
 - **Daysi UI**: Beautiful user interface components for a modern look.
 - **Fully Responsive**: UI/UX fully done for all small and large sizes. The design is Moblie first.
+- <img href="https://github.com/ParsaBordbar/chatRoom/assets/124056966/a6afd6e0-cdf9-47a0-9447-ee9173565f49">
+
 - **Node.js Backend**: Server-side logic built on Node.js for handling WebSocket connections.
 - **Writer Intro welcome header:** To introduce the features.
 [see it here!](https://github.com/ParsaBordbar/chatRoom/assets/124056966/87c06d8c-877d-410e-a898-d1b3ff026ec6)
