@@ -1,6 +1,5 @@
 # Chat Room with JS
-
-![Screenshot from 2024-06-25 23-43-30](https://github.com/ParsaBordbar/chatRoom/assets/124056966/a6afd6e0-cdf9-47a0-9447-ee9173565f49)
+[see a demo video here](https://github.com/ParsaBordbar/chatRoom/assets/124056966/b6f0c8ce-fc9e-4631-8ab2-4738d574bc30)
 
 
 
@@ -26,4 +25,3 @@ A real-time chat application built with Daysi UI, Tailwind CSS, Node.js, and Web
 - Enter your name to join the chat room.
 - Type your message in the input box at the bottom and press Enter to send.
 - Messages are displayed in real-time for all connected users.
-[see a demo video here](https://github.com/ParsaBordbar/chatRoom/assets/124056966/b6f0c8ce-fc9e-4631-8ab2-4738d574bc30)
